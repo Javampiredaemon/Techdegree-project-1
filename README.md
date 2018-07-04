@@ -1,1 +1,4 @@
 # Techdegree-project-1
+For my first project, I practiced web design skills by customizing a web page to create a personal profile. I modified the code for a basic web page by adding graphics, custom text, and a stylish design. This is a great way to practice HTML and CSS skills. It also gives a web page I can use as a personal online calling card to advertise my experience, skills, and goals, and provide links to my social media accounts on Twitter, LinkedIn and GitHub.
+
+I also practiced using GitHub, an important tool used by millions of developers to share code and work collaboratively on programming projects.
